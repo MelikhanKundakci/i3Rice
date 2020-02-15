@@ -27,9 +27,7 @@ yay -S polybar-git
 ```
 
 * must haves
-```
-sudo pacman -S dmenu vim ranger i3 rxvt-unicode xorg-xrandr feh 
-```
+``` sudo pacman -S dmenu vim ranger i3 rxvt-unicode xorg-xrandr feh zsh wget git ```
 
 * fonts
 ```
@@ -38,14 +36,15 @@ yay -S ttf-hack
 ```
 
 * Browser of my choice
-```
-sudo pacman -S firefox
-```
+```sudo pacman -S firefox ```
 
 * pywal for ease color schemes
-```
-sudo pacman -S python imagemagick python-pip python-pywal
-```
+
+``` sudo pacman -S python imagemagick python-pip python-pywal ```
+
 
 * set color scheme
 ``` wal -i <location of image> ```
+
+* zsh Theme 
+```yay -S zsh-theme-powerlevel10k ```
