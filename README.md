@@ -27,7 +27,7 @@ yay -S polybar-git
 ```
 
 * must haves
-``` sudo pacman -S dmenu vim ranger i3 rxvt-unicode xorg-xrandr feh zsh wget git ```
+``` sudo pacman -S dmenu vim ranger i3 rxvt-unicode xorg-xrandr feh wget git ```
 
 * fonts
 ```
@@ -45,6 +45,3 @@ yay -S ttf-hack
 
 * set color scheme
 ``` wal -i <location of image> ```
-
-* zsh Theme 
-```yay -S zsh-theme-powerlevel10k ```
